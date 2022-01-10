@@ -1,2 +1,2 @@
 # mytecc-web-frontend
-This is the frontend for MYTECC official website and e-commerce
+This is the frontend for MYTECC official website (CMS)
